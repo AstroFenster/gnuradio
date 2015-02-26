@@ -1,6 +1,14 @@
 # Xcode
 #
 build/
+Makefile
+gqrx.pro.user*
+*.o
+moc_*
+qrc_*
+ui_*
++.DS_Store
++Info.plist
 *.pbxuser
 !default.pbxuser
 *.mode1v3
